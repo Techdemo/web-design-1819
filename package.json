@@ -1,0 +1,22 @@
+{
+  "name": "web-design-1819",
+  "version": "1.0.0",
+  "description": "//Werken met en voor echte mensen.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techdemo/web-design-1819.git"
+  },
+  "author": "Marcel F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techdemo/web-design-1819/issues"
+  },
+  "homepage": "https://github.com/Techdemo/web-design-1819#readme",
+  "devDependencies": {
+    "gulp-livereload": "^4.0.1"
+  }
+}
