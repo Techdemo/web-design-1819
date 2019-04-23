@@ -10,9 +10,14 @@ Voor Marie geldt dit effect niet. Zij kan geen relatie leggen tussen de nuance v
 - Voor horende is humor een breder concept dan voor een dove. Humor hangt veel af van timing en tone of voice. Dit zijn aspecten die zij niet meekrijgt.
 - Marie gaat op vakantie en gaat mee op excursies. Dit is mogelijk doordat er een tolk bij is. Of de begeleider van de excursie/rondleiding is zelf een dove tolk.
 - de betekenis van kleuren en vormen worden je aangeleerd. Marie heeft bij bepaalde kleuren en/of vormen minder een gevoel dan dat horende dat hebben.
+- Bron : site vasilis en transcriptie
 
 ## Quotes:
 - Geluid is voor mij abstract
 - ik kan geluid alleen maar voelen
 - Ik heb geen taal in mijn hoofd
 - wat ik zie kan interpreteren
+
+## Important:
+- volgende week woensdag moeten er al twee tests plaatsvinden.
+- een praktisch prototype, je mag faken.

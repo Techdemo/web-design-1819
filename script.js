@@ -1,30 +1,52 @@
+// Daniel Shiffman
+// Code for: https://youtu.be/h_aTgOl9J5I
+
 let song;
-let sliderVolume;
-let sliderRate;
-let sliderPan;
-// preload. it's like the pre-setup.
-// the rest cant do something until the sound file is loaded
+let amp;
+let button;
 
-// setup event
-function setup(){
-    createCanvas(200, 200)
-    song = loadSound("sound.mp3", loaded);
-    sliderVolume = createSlider(0, 2, 0.5, 0.01 );
-    sliderRate = createSlider(0, 2, 1, 0.01);
-    sliderPan = createSlider(-1, 1, 0.5, 0.01);
+let volhistory = [];
+
+function toggleSong() {
+    if (song.isPlaying()) {
+        song.pause();
+    } else {
+        song.play();
+    }
 }
 
-function loaded(){
-    // callback
+function preload() {
+    song = loadSound('assets/sample2.mp3');
+}
+
+function setup() {
+    createCanvas(400, 400);
+    angleMode(DEGREES);
+    button = createButton('toggle');
+    button.mousePressed(toggleSong);
     song.play();
+    amp = new p5.Amplitude();
 }
 
-// draw event loops over and over again
-function draw(){
+function draw() {
     background(0);
+    let vol = amp.getLevel();
+    volhistory.push(vol);
+    stroke(255);
+    noFill();
 
-    song.pan(sliderPan.value())
-    // rate is the speed at which the sound is played back
-    song.rate(sliderRate.value())
-    song.setVolume(sliderVolume.value());
+    translate(width / 2, height / 2);
+    beginShape();
+    for (var i = 0; i < 360; i++) {
+        var r = map(volhistory[i], 0, 10, 100, 1000);
+        var x = r * cos(i);
+        var y = r * sin(i);
+        vertex(x, y);
+    }
+    endShape();
+
+    if (volhistory.length > 360) {
+        volhistory.splice(0, 1);
+    }
+    //ellipse(100, 100, 200, vol * 200);
 }
