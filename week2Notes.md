@@ -30,7 +30,7 @@ Om een voorbeeld te noemen: Het viel mij op dat zij een tatoege had. De tatoeage
 
 ## Aangepaste user story Week 2.
 Aan de hand van de user test pas ik mijn user story aan. De user story van week 2 is dus ook een iteratie op de user story van week 1.
-[user story week 1]("week1Notes.md")
+[user story week 1](week1Notes.md)
 
 Er zijn een paar dingen veranderd in de user story:
 - Alle schuingedrukte zinnen zijn er sinds de laatste user test bijgekomen of aangepast.
