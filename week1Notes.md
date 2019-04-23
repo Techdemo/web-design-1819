@@ -1,6 +1,6 @@
-#notes from first meeting with Marie
+# notes from first meeting with Marie
 
-##Insights
+## Insights
 - Marie heeft moeite met grote lappen tekst te lezen. Zeker als dit in een snel tempo voorbij komt razen op het scherm. Grote stukken tekst op deze manier zijn vermoeiend om te lezen. Een manier voor haar om dit te handelen is wanneer zij zelf het tempo kan bepalen.
 - Emoties of nuance uitdrukken in taal is nogal absctract voor Marie. Wanneer horenden een woord in hoofdletters zien staan weten zij dat het woord uitgeschreeuwd wordt.
 Voor Marie geldt dit effect niet. Zij kan geen relatie leggen tussen de nuance van de taal en hoe de taal is vormgegeven.
