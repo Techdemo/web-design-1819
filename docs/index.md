@@ -138,6 +138,8 @@ Waar andere podcasts alleen vertrouwen op audio als communicatiemethode, kan Mar
 
 ### week 3
 
+In week 3 besloot ik om een meer experimentelere houding aan te nemen richting Marie. Na ons vorig gesprek kreeg ik het gevoel dat dit mogelijk was bij Marie. 
+
 #### Usertest
 
 Voor de usertest van deze week besloot ik dieper in te gaan op het minder abstract maken van geluid voor Marie. De insights van week 2 neem ik mee naar deze test. Daarnaast leek het mij ook interessant om verder te gaan met experimenteren binnen dit domein. 
@@ -164,5 +166,9 @@ De opzet van mijn usertest:
     - Hoe kan ik dit voor jou visueel aantrekkelijker maken. 
 
 #### bevindingen van de user test
+
+De usertest had twee kanten voor mijn gevoel. Enerzijds heb ik veel waardevolle informatie gehaald uit deze experimentele benadering. Ik gaf mijzelf de kans om een open houding aan te nemen naar het stellen van vragen aan het testpersoon. Aan de andere kant wil je als ontwerper dingen maken waar de gebruiker meteen heel erg blij is. In dit geval ging dit niet zo op. Het was een geslaagd experiment maar niet met een concrete uitkomst. 
+
+
 
 ### Reflectie
